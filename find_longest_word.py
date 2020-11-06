@@ -3,7 +3,7 @@
 from collections import Counter
 import time
 
-words = open('english').read().splitlines()
+words = open('filename').read().splitlines()
 
 time_before = time.time()
 
