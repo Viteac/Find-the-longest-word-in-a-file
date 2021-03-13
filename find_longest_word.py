@@ -1,4 +1,4 @@
-# Seeking for the longest word in a Dictionary
+# Seeking for the longest word in a File
 
 from collections import Counter
 import time
