@@ -1,2 +1,2 @@
-# Find-the-longest-word-in-a-file-dictionary
-To find the longest word in a dictionary
+# Find-the-longest-word-in-a-file
+To find the longest word in a file.
